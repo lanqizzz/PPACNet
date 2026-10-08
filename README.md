@@ -27,7 +27,7 @@ PPF, SD-PAC, and EADC introduce **no additional learnable parameters**.
 
 The overall framework of PPACNet is shown below.
 
-![PPACNet Framework](assets/PPACNet_Framework.png)
+![PPACNet Framework](PPACNet_Framework.png)
 
 ## Datasets
 
